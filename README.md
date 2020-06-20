@@ -1,6 +1,9 @@
 # HT82K629A_KBD_CONTROLLER
 USB or PS/2 Keyboard controller board KiCad project
 
+# Description
+キーボードコントローラーIC HT82K629Aを使ったUSB PS/2両対応のコントローラー基板です。
+
 
 ## PCB Artwork
 Rev0.4A  
