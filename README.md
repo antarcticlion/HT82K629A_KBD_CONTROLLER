@@ -8,6 +8,27 @@ Rev0.4A
 ![Rev4A PCB_art 2](https://github.com/antarcticlion/HT82K629A_KBD_CONTROLLER/blob/master/KBD_CON_04A_SIDEB.png)  
 
 
+## 部品表(BOM)
+| Ref | Name | Qty./Note |
+|:---|:---|:---|
+|C1 |Capacitor 10uF | N/A |
+|C2-C4 |Capacitor 0.1uF CC or MLCC | 3pcs |
+|R1 |Resistor 100KR 1/4W | N/A |
+|R2 |Resistor 1.5KR 1/4W | N/A |
+|F1 |Ceramic resonetor 6MHz | N/A |
+|D1-D3 |LED | 3pcs |
+|J1 |USB B full size connector | N/A |
+|J2 |Mini-DIN 6p socket | N/A |
+|J3-J4 |1x20 2.54mm pitch pinheader | 2pcs |
+|J5 |2x20 2.54mm pitch pinheader | N/A |
+|J6-J12 |1x3 2.54mm pitch pinheader | 7pcs |
+|J13-J16 |Cherry MX key switch and/or hotswap parts | 4pcs |
+|J17-J20 |1x2 2.54mm pitch pinheader | 4pcs |
+|J21 |JST XH 4pin socket B4B-XH-A | N/A |
+|J22 |JST XH 6pin socket B6B-XH-A | N/A |
+|U1 | 40pin DIP IC SOCKET 600mil | N/A |
+| N/A | HT82K629A 40DIP ic | install to U1 |
+
 ## License
 MIT LicenseとCreative commons CC BY-SA 4.0のデュアルライセンスとします。
 
