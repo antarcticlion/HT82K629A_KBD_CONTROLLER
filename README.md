@@ -2,6 +2,10 @@
 USB or PS/2 Keyboard controller board KiCad project
 
 
+## PCB Artwork
+Rev0.4A  
+![Rev4A PCB_art 1](https://github.com/antarcticlion/HT82K629A_KBD_CONTROLLER/blob/master/KBD_CON_04A_SIDEA.png)  
+![Rev4A PCB_art 2](https://github.com/antarcticlion/HT82K629A_KBD_CONTROLLER/blob/master/KBD_CON_04A_SIDEB.png)  
 
 
 ## License
